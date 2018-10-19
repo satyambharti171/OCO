@@ -8,7 +8,7 @@
 |[Deep Learning Camp Jeju](http://jeju.dlcamp.org/2018/)                     |Global    |Deep learning|                      |Yes    | April              | June-July      | No           |
 |[DataONE Summer Internship Program](https://www.dataone.org/internships)    |Global    |Data analysis|R,Python,Matlab       | $5000 | Feb-March          | May-July       | No           |
 |[GNOME internships](https://wiki.gnome.org/Internships)                     |Global    |             |                      | $8000 | September          | Dec-Feb        | No           |
-|[Free Software Foundation Internship](fsf.org/volunteer/internships)        |Global    |             |                      | No    |                    |                | No           |
+|[Free Software Foundation Internship](https://www.fsf.org/volunteer/internships)        |Global    |             |                      | No    |                    |                | No           |
 |[ Radare Summer of Code](https://rada.re/rsoc)                              |Global    |             |                      | Yes   |                    |                | Yes          |
 |[Hyperledger Internship Program](wiki.hyperledger.org/internship/schedule)  |Global    |Blockchain   |                      | Yes   | March              | June-Aug/Nov   | No           |
 |[RARE Technologies Incubator Program](https://bit.ly/2JXbNOA)               |Global    |Data-Sci/ML  |                      |Case-basis| All-year        | All-year       | No           |
