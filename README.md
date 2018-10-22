@@ -17,6 +17,7 @@
 |[GirlScript Summer of Code](http://gssoc.tech)                              |          |All          |All                   |Prize  |                    | Jun-Aug        | No           |
 |[RAILS GIRLS SUMMER OF CODE](https://railsgirlssummerofcode.org)            |          |             |                      |       | Feb                | Jul-Sep        |              |
 | [Bloc](https://www.switchup.org/bootcamps/bloc)                             |   Global|   All       |Ruby on Rails, Javascript, jQuery, HTML, CSS, AngularJS, React.js, Node.js       |   $8,500.00                 |  	Rolling Dates              |  	Rolling Dates          | No
+| [Game Off](https://itch.io/jam/game-off-2018)                          |  Global |   All       |JavaScript,Python, C++, C#, Java, Lua,CSS3,HTML5,SQL,UNITY                          |   Yes            |  2nd November-2nd December | 2nd December-2nd January | No 
 
 Note-Technologies may vary from project to project, so it is not necessary to know all the technologies.
 Also other technologies can be used depending on the project.  
